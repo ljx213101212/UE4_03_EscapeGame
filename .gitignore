@@ -1,6 +1,7 @@
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermeidate
-*/Saved
-*/Content
+.vs/
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/
